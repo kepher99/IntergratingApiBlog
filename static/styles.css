@@ -1,0 +1,12 @@
+body {
+  background: grey; /* Changed background color to grey */
+}
+
+img {
+  width: 200px; /* Increased image width */
+  height: 200px; /* Increased image height */
+  border-radius: 50%; /* Changed border-radius to make the image circular */
+  display: block;
+  margin: 0 auto; /* Center the image */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Added a slight shadow */
+}
